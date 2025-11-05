@@ -1,8 +1,8 @@
 # Texture_Bake_with_Cage_
 **Eliminate Seam Artifacts Forever!** Automated cage-based texture baking with zero-seam results. Features 2× SSAA quality mode, auto-emission detection, and one-click target preparation. Perfect for game assets, characters, and high-quality renders.
 
-
-https://github.com/Dahandla/Texture_Bake_with_Cage_/blob/dddbce01478a7f645ba373aac441788c720e5db6/resources/ScreenshotTBC.png
+![image](https://github.com/Dahandla/Texture_Bake_with_Cage_/blob/dddbce01478a7f645ba373aac441788c720e5db6/resources/ScreenshotTBC.png
+)
 
 **Stop struggling with seam artifacts and black bakes!** This add-on revolutionizes texture baking in Blender with automated cage-based workflows that eliminate visible UV seams completely.
 
