@@ -58,3 +58,6 @@
 Traditional texture baking in Blender creates seam artifacts because ray casting from the surface creates inconsistent projections. This add-on solves that problem by using automated cage-based baking that projects from outside the mesh, eliminating seams entirely.
 
 **Save hours of manual work** - No more manual cage creation, no more seam fixing in Photoshop, no more trial-and-error ray distance tweaking.
+
+#### Get It Here:
+https://saraintelai.gumroad.com/l/rfougx
